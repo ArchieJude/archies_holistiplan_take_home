@@ -33,40 +33,50 @@ The TaxForm Processing API is designed to handle the upload, processing, and ana
 ### Steps
 
 1. Clone the repository:
+    ```bash
+
+    git clone https://github.com/ArchieJude/archies_holistiplan_take_home.git
+    ```
+2. Navigate into the rep
 
     ```bash
-    git clone https://github.com/ArchieJude/archies_holistiplan_take_home.git
+
     cd archies_holistiplan_take_home
     ```
-2. Export Django project settings:
+3. Export Django project settings:
     ```bash
+
     export DJANGO_SETTINGS_MODULE=HolistiplanTakeHome.settings
     ```
-3. Create and activate a virtual environment:
+4. Create and activate a virtual environment:
     ```bash
+
     python3 -m venv env_archies_holistiplan_take_home
     source env_archies_holistiplan_take_home/bin/activate
     ```
 
-4. Install the required packages:
+5. Install the required packages:
     ```bash
+
     brew install poppler
     pip install -r requirements.txt
     ```
 
-5. Set up the database:
+6. Set up the database:
     ```bash
+
     python manage.py makemigrations
     python manage.py migrate
     ```
 
-6. Run pytest
+7. Run pytest
    ```bash
+   
    pytest
    ```
    **Out of 72, 69 should pass, 3 failing tests are due to problamatic pdf: 2023senior.pdf**
 
-7. Create a superuser with environment variables:
+8. Set env vars for superuser and create superuser:
 
     ```bash
     export DJANGO_SUPERUSER_USERNAME='admin'
