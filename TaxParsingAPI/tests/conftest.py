@@ -1,10 +1,10 @@
 import pytest
 from pathlib import Path
 from django.conf import settings
-settings.configure()
 from HolistiplanTakeHome.settings import MEDIA_ROOT
 from fpdf import FPDF
 from django.conf import settings
+from TaxParsingAPI.models import TaxForm
 
 test_file_content = [
     "Add lines 1z, 2b, 3b, 4b, 5b, 6b, 7, and 8. This is your total income .        |           220,640.",
@@ -54,3 +54,22 @@ def mock_pdf_path(tmp_path) -> Path:
 
     return mock_pdf_path
 
+@pytest.fixture
+def tax_form_object(mock_pdf_path) -> TaxForm:
+    """
+    Fixture to create a mock TaxForm object.
+
+    This fixture uses another fixture, mock_pdf_path, that creates a temporary directory structure and creates a mock PDF file
+    with the specified content.
+
+    Args:
+        mock_pdf_path (pathlib.Path): The path to the created mock PDF file.
+
+    Returns:
+        tax_form (TaxForm): TaxForm model object
+    """
+    tax_form = TaxForm(
+        tax_form=mock_pdf_path,
+    )
+
+    return tax_form
