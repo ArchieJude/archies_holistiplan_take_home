@@ -34,7 +34,7 @@ The TaxForm Processing API is designed to handle the upload, processing, and ana
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-repo/taxform-processing-api.git
+    git clone https://github.com/ArchieJude/archies_holistiplan_take_home.git
     cd taxform-processing-api
     ```
 
@@ -193,8 +193,4 @@ This project is licensed under a Proprietary License.
 
 **Proprietary License**: All rights reserved. You may not use, distribute, or modify this code without explicit permission from the author.
 
-For permissions and inquiries, please contact [Your Contact Information].
 
-## Contact
-
-For any questions or issues, please open an issue in the repository or contact the project maintainer.
