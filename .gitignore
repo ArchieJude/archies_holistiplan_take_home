@@ -1,0 +1,9 @@
+# Ignore Visual Studio Code settings folder
+.vscode/
+
+# Ignore Python cache directories
+**/__pycache__/
+*.pyc
+
+# Ignore the virtual environment directory
+archies_holistiplan_take_home/
