@@ -1,0 +1,405 @@
+[
+    {
+        "text": "IRS",
+        "bbox": [
+            798.8721793941182,
+            121.51162859914388,
+            894.7368415645284,
+            166.2790693950422
+        ],
+        "center": [
+            846.8045104793233,
+            143.89534899709304
+        ]
+    },
+    {
+        "text": "Note: The draft you are looking for begins on the next page.",
+        "bbox": [
+            178.9473606329301,
+            264.9999990571828,
+            1511.4661594610552,
+            319.99999905718283
+        ],
+        "center": [
+            845.2067600469927,
+            292.4999990571828
+        ]
+    },
+    {
+        "text": "Caution: DRAFT-NOT FOR FILING",
+        "bbox": [
+            230.07519937172034,
+            341.9999997163144,
+            1348.4962198795329,
+            399.9999997163144
+        ],
+        "center": [
+            789.2857096256266,
+            370.9999997163144
+        ]
+    },
+    {
+        "text": "This is an early release draft of an IRS tax form, instructions, or publication,",
+        "bbox": [
+            239.66164492686775,
+            440.9999997782152,
+            1447.5564203174927,
+            479.99999977821517
+        ],
+        "center": [
+            843.6090326221802,
+            460.49999977821517
+        ]
+    },
+    {
+        "text": "which the IRS is providing for your information. Do not file draft forms and do",
+        "bbox": [
+            198.12027170568058,
+            488.9999997163142,
+            1457.1428547134929,
+            527.9999997163142
+        ],
+        "center": [
+            827.6315632095867,
+            508.49999971631416
+        ]
+    },
+    {
+        "text": "not rely on draft forms, instructions, and pubs for filing. We incorporate all",
+        "bbox": [
+            201.3158312541118,
+            540.0000007857637,
+            1380.4510851603618,
+            582.0000007857639
+        ],
+        "center": [
+            790.8834582072368,
+            561.0000007857639
+        ]
+    },
+    {
+        "text": "significant changes to forms posted with this coversheet. However, unexpected",
+        "bbox": [
+            201.21447046702144,
+            587.1673894878761,
+            1463.6566091388963,
+            630.8762594219581
+        ],
+        "center": [
+            832.4355398029588,
+            609.0218244549171
+        ]
+    },
+    {
+        "text": "issues occasionally arise, or legislation is passed\u2014in this case, we will post a",
+        "bbox": [
+            198.1202707132578,
+            642.7325578202641,
+            1434.7744455179454,
+            678.0000005235113
+        ],
+        "center": [
+            816.4473581156017,
+            660.3662791718878
+        ]
+    },
+    {
+        "text": "new draft of the form to alert users that changes were made to the previously",
+        "bbox": [
+            201.31578676985418,
+            690.697674986804,
+            1431.5789703636042,
+            732.267441985095
+        ],
+        "center": [
+            816.4473785667292,
+            711.4825584859495
+        ]
+    },
+    {
+        "text": "posted draft. Thus, there are never any changes to the last posted draft of a",
+        "bbox": [
+            201.3158242045056,
+            738.6627903998373,
+            1409.210477524818,
+            780.232557398128
+        ],
+        "center": [
+            805.2631508646618,
+            759.4476738989827
+        ]
+    },
+    {
+        "text": "form and the final revision of the form. Forms and instructions are subject to",
+        "bbox": [
+            198.12035080768283,
+            789.8255808762235,
+            1412.4059953389328,
+            825.0000002792998
+        ],
+        "center": [
+            805.2631730733078,
+            807.4127905777616
+        ]
+    },
+    {
+        "text": "OMB approval before they can be officially released, so we post drafts of them",
+        "bbox": [
+            201.31580234903697,
+            837.7906971060535,
+            1450.7518375052869,
+            876.1627903067373
+        ],
+        "center": [
+            826.0338199271619,
+            856.9767437063954
+        ]
+    },
+    {
+        "text": "until they are approved. Drafts of instructions and pubs usually have some",
+        "bbox": [
+            201.31583283050395,
+            888.9534886671,
+            1386.8420779476915,
+            927.3255818677839
+        ],
+        "center": [
+            794.0789553890977,
+            908.1395352674419
+        ]
+    },
+    {
+        "text": "additional changes before their final release. Early release drafts are at",
+        "bbox": [
+            201.3157794522441,
+            936.9186040827975,
+            1338.909773592869,
+            975.2906972834813
+        ],
+        "center": [
+            770.1127765225565,
+            956.1046506831394
+        ]
+    },
+    {
+        "text": "IRS.gov/DraftForms and remain there after the final release is posted at",
+        "bbox": [
+            198.12031825878148,
+            987.999999540939,
+            1351.691729391594,
+            1026.4534888445278
+        ],
+        "center": [
+            774.9060238251877,
+            1007.2267441927333
+        ]
+    },
+    {
+        "text": "IRS.gov/LatestForms. Also see IRS.gov/Forms.",
+        "bbox": [
+            198.1203063559533,
+            1038.9999992779083,
+            965.0376037192347,
+            1074.4186050823516
+        ],
+        "center": [
+            581.5789550375939,
+            1056.70930218013
+        ]
+    },
+    {
+        "text": "Most forms and publications have a page on IRS.gov: IRS.gov/Form1040 for",
+        "bbox": [
+            242.8571456332446,
+            1115.9883718215851,
+            1466.7293380160572,
+            1154.3604650222687
+        ],
+        "center": [
+            854.793241824651,
+            1135.174418421927
+        ]
+    },
+    {
+        "text": "Form 1040; IRS.gov/Pub501 for Pub. 501; IRS.gov/W4 for Form W-4; and",
+        "bbox": [
+            201.31580516359236,
+            1163.953487803728,
+            1383.6466157104674,
+            1202.3255810044116
+        ],
+        "center": [
+            792.4812104370299,
+            1183.1395344040698
+        ]
+    },
+    {
+        "text": "IRS.gov/ScheduleA for Schedule A (Form 1040), for example, and similarly for",
+        "bbox": [
+            198.1203000336875,
+            1214.999999465664,
+            1457.1428830415,
+            1256.9999994656641
+        ],
+        "center": [
+            827.6315915375937,
+            1235.9999994656641
+        ]
+    },
+    {
+        "text": "other forms, pubs, and schedules for Form 1040. When typing in a link, type it",
+        "bbox": [
+            201.3158023950009,
+            1265.9999995863545,
+            1447.5564029809384,
+            1304.9999995863548
+        ],
+        "center": [
+            824.4361026879697,
+            1285.4999995863545
+        ]
+    },
+    {
+        "text": "into the address bar of your browser, not a Search box on IRS.gov.",
+        "bbox": [
+            198.12032730128067,
+            1313.9999994512311,
+            1274.9999659731557,
+            1355.9999994512314
+        ],
+        "center": [
+            736.5601466372182,
+            1334.9999994512314
+        ]
+    },
+    {
+        "text": "If you wish, you can submit comments to the IRS about draft or final forms,",
+        "bbox": [
+            246.05260416955514,
+            1393.9999998225724,
+            1447.5563883492428,
+            1432.9999998225724
+        ],
+        "center": [
+            846.804496259399,
+            1413.4999998225724
+        ]
+    },
+    {
+        "text": "instructions, or pubs at IRS.gov/FormsComments. Include \"NTF\" followed by the",
+        "bbox": [
+            198.12027806913795,
+            1438.9534893520508,
+            1485.9022604910128,
+            1484.000000048462
+        ],
+        "center": [
+            842.0112692800753,
+            1461.4767447002564
+        ]
+    },
+    {
+        "text": "form or pub number (for example, \"NTF 1040\", \"NTFW4\", \"NTF501, etc.) in the",
+        "bbox": [
+            198.12031231511367,
+            1490.000000559593,
+            1444.360912901051,
+            1535.000000559593
+        ],
+        "center": [
+            821.2406126080823,
+            1512.500000559593
+        ]
+    },
+    {
+        "text": "body of the message to route your message properly. We cannot respond to all",
+        "bbox": [
+            201.31578578560675,
+            1540.9999998848043,
+            1469.9247945746692,
+            1579.9999998848043
+        ],
+        "center": [
+            835.620290180138,
+            1560.4999998848043
+        ]
+    },
+    {
+        "text": "comments due to the high volume we receive and may not be able to consider",
+        "bbox": [
+            201.31578720306618,
+            1592.0000004971953,
+            1453.947378999941,
+            1631.0000004971953
+        ],
+        "center": [
+            827.6315831015036,
+            1611.5000004971953
+        ]
+    },
+    {
+        "text": "many suggestions until the subsequent revision of the product, but we will",
+        "bbox": [
+            201.3158169543002,
+            1640.0000001155267,
+            1380.4510708605503,
+            1679.0000001155267
+        ],
+        "center": [
+            790.8834439074253,
+            1659.5000001155267
+        ]
+    },
+    {
+        "text": "review each \"NTF\" message. If you have comments on reducing paperwork and",
+        "bbox": [
+            201.31578241165425,
+            1687.9999996286592,
+            1476.3157824116543,
+            1729.9999996286592
+        ],
+        "center": [
+            838.8157824116543,
+            1708.9999996286592
+        ]
+    },
+    {
+        "text": "respondent (filer) burden, with respect to draft or final forms, please respond to",
+        "bbox": [
+            201.31578665712118,
+            1742.732557890937,
+            1460.3383696649337,
+            1781.1046510916206
+        ],
+        "center": [
+            830.8270781610274,
+            1761.9186044912788
+        ]
+    },
+    {
+        "text": "the relevant information collection through the Federal Register process; for",
+        "bbox": [
+            198.12034574815925,
+            1790.6976741700068,
+            1412.4059902794093,
+            1829.0697673706907
+        ],
+        "center": [
+            805.2631680137843,
+            1809.8837207703486
+        ]
+    },
+    {
+        "text": "more info, click here.",
+        "bbox": [
+            204.51128720813256,
+            1841.8604650275652,
+            540.0375933604763,
+            1880.2325582282488
+        ],
+        "center": [
+            372.27444028430443,
+            1861.046511627907
+        ]
+    }
+]
