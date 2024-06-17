@@ -335,6 +335,8 @@ class PreprocessTaxForm:
         Returns:
             None
         """
+        if not self.base_dir.exists():
+            self.base_dir.mkdir()
         if not self.base_image_directory.exists():
             self.base_image_directory.mkdir()
         if not self.base_text_from_pdf_directory.exists():

@@ -8,3 +8,5 @@
 # Ignore the virtual environment directory
 archies_holistiplan_take_home/
 db.sqlite3
+# Ignore all contents of tax_forms directory
+TaxParsingAPI/tax_forms/*
