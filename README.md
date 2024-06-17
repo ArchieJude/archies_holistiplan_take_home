@@ -35,7 +35,7 @@ The TaxForm Processing API is designed to handle the upload, processing, and ana
 1. Clone the repository:
     ```bash
     git clone https://github.com/ArchieJude/archies_holistiplan_take_home.git
-    cd taxform-processing-api
+    cd archies_holistiplan_take_home
     ```
 
 2. Create and activate a virtual environment:
