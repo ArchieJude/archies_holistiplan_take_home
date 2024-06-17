@@ -29,8 +29,8 @@ class FieldBase:
 
     preprocessed_tax_form: PreprocessTaxForm
 
-    statement_ocr: MatchedAnnotation = field(default=MatchedAnnotation())
-    value_ocr: MatchedAnnotation = field(default=MatchedAnnotation())
+    statement_ocr: MatchedAnnotation = field(default_factory=MatchedAnnotation)
+    value_ocr: MatchedAnnotation = field(default_factory=MatchedAnnotation)
 
     statement_patterns: ClassVar[List[Pattern]] = field(default=[])  # priority queue
     value_patterns: ClassVar[List[Pattern]] = field(default=[])
