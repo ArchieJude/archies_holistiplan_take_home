@@ -193,7 +193,16 @@ TaxParsingAPI/
 - Serializer for the `TaxForm` model.
 - Custom methods for handling nested tax fields and preprocessing.
 
+## The Approach
 
+- The extraction logic relies on two components: text and the text's boundary box (x,y coordinate of where it is located in the pdf file)
+  - Use regex to match text: 
+    - for example:
+      - tax field instruction: Subtract line 14 from line 11. If zero or less, enter -0-. This is your taxable income
+      - tax field value: 192,482.
+  - Use boundary box to reduce search space:
+    - Since the tax field value always appear after tax field instruction in natural reading order, we can exclude values that appear elsewhere like before tax field instruction.
+  
 ## Problems 
 #### PDF file with incoherent values, `2023senior.pdf`
 - Because the values for this pdf file is made up, my main extraction strategy for dealing with faulty extractions, calculating the expected value based on dependent extracted fields failed. For example, overpaid and amount owed fields are calculated by two tax fields: total tax and total payments. Ideas on how to solve for that particular complication, log it because it needs a manual review, if the checks and balances do not equate there is something seriously wrong: either the tax document is not filled out correctly or extraction logic is flawed.
