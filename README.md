@@ -193,7 +193,7 @@ TaxParsingAPI/
 
 ## Problems 
 #### PDF file with incoherent values, `2023senior.pdf`
-- Because the values for this pdf file is made up, my main extraction strategy for dealing with faulty extractions, calculating the expected value based on dependent extracted fields failed. For example, overpaid and amount owed fields are calculated by two tax fields: total tax and total payments.
+- Because the values for this pdf file is made up, my main extraction strategy for dealing with faulty extractions, calculating the expected value based on dependent extracted fields failed. For example, overpaid and amount owed fields are calculated by two tax fields: total tax and total payments. Ideas on how to solve for that particular complication, log it because it needs a manual review, if the checks and balances do not equate there is something seriously wrong: either the tax document is not filled out correctly or extraction logic is flawed.
 
 
 ## Contributing
